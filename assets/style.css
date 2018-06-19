@@ -1,0 +1,37 @@
+h1 {
+    font-family: cursive;
+    font-size: 350%;
+    text-align: center;
+}
+
+body {
+    background-image: url("../assets/images/background.jpg");
+}
+
+#buttons-div {
+    margin: auto;
+    text-align: center;
+}
+
+button {
+    background-color: azure;
+    font-size: 110%;
+    font-family: cursive;
+}
+
+.item {
+    float: left;
+    margin-left: 1%;
+    margin-top: 2%;
+}
+
+form {
+    text-align: center;
+    /* color: white; */
+    font-family: cursive;
+    font-size: 110%;
+    background-color: azure;
+    width: 30%;
+    margin: auto;
+    margin-top: 3%;
+}
