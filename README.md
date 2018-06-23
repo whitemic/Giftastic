@@ -1,1 +1,2 @@
 # Giftastic
+This program opens with a set of buttons with sitcom character's names. If you click on any of the character buttons, 10 non-animated giphy images will populate the page and the rating for the image will be displayed below. You can add a search term and a new button will be generated with the same functionality as the original buttons. If you click on an image, it will animate. If you click on the same image again it will pause and this pattern will continue for each image as you click. 
